@@ -1,5 +1,5 @@
 .bubulles1{
-    background-color: rgb(226, 43, 43);
+    background-color: #0e1692;
     border-radius: 100px;
     width: 200px;
     height: 200px;
@@ -7,21 +7,22 @@
     z-index: -1;
   }
   .bubulles2{
-    background-color: rgb(226, 43, 43);
+    background-color: #081552;
     border-radius: 200px;
     width: 400px;
     height: 400px;
-    transform: translate(200px,300px) ;
+    position: absolute;
+    top: 500px;
+    left: 150px;
     z-index: -1;
   }
   .bubulles3{
-    background-color: rgb(43, 116, 226);
+    background-color: #24188b;
     border-radius: 100px;
     width: 50px;
     height: 50px;
-    position: fixed;
-    top: 25%;
-    bottom: 50px;
-    left: 800px;
+    position: absolute;
+    top: 400px;
+    left: 400px;
     z-index: -1;
   }
