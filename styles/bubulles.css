@@ -1,5 +1,5 @@
 .bubulles1{
-    background-color: #0e1692;
+    background-color: #29384b;
     border-radius: 100px;
     width: 200px;
     height: 200px;
@@ -7,7 +7,7 @@
     z-index: -1;
   }
   .bubulles2{
-    background-color: #081552;
+    background-color: #29384b;
     border-radius: 200px;
     width: 400px;
     height: 400px;
@@ -17,12 +17,33 @@
     z-index: -1;
   }
   .bubulles3{
-    background-color: #24188b;
+    background-color:#29384b;
     border-radius: 100px;
     width: 50px;
     height: 50px;
     position: absolute;
     top: 400px;
     left: 400px;
+    z-index: -1;
+  }
+  .bubulles4{
+    background-color:#29384b;
+    border-radius: 175px;
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 400px;
+    left: 1200px;
+    z-index: -1;
+  }
+  .bubulles5{
+    background-color: #29384b;
+    border-radius: 250px;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    
     z-index: -1;
   }
