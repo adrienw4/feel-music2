@@ -3,17 +3,19 @@
     border-radius: 100px;
     width: 200px;
     height: 200px;
-    transform: translate(100px,200px) ;
+    position: absolute;
+    bottom: 100px;
+
     z-index: -1;
   }
   .bubulles2{
     background-color: #29384b;
-    border-radius: 200px;
-    width: 400px;
-    height: 400px;
+    border-radius: 250px;
+    width: 500px;
+    height: 500px;
     position: absolute;
-    top: 500px;
-    left: 150px;
+    top: 550px;
+    right:-60px;
     z-index: -1;
   }
   .bubulles3{
@@ -28,9 +30,9 @@
   }
   .bubulles4{
     background-color:#29384b;
-    border-radius: 175px;
-    width: 350px;
-    height: 350px;
+    border-radius: 125px;
+    width: 250px;
+    height: 250px;
     position: absolute;
     top: 400px;
     left: 1200px;
@@ -38,12 +40,12 @@
   }
   .bubulles5{
     background-color: #29384b;
-    border-radius: 250px;
-    width: 500px;
-    height: 500px;
+    border-radius: 30px;
+    width: 60px;
+    height: 60px;
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 10px;
+    right: 10px;
     
     z-index: -1;
   }

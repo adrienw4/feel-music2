@@ -1,4 +1,29 @@
+.img img{
+    justify-content: flex-end;
+    margin-bottom: 0px;
+    
+}
 header{
     display: flex;
-
-}
+    justify-content: center;
+    justify-content: space-around;
+    padding: 25px;
+    height: 10vh;
+  
+  }
+  .title{
+    display: flex;
+    height: 50px;
+  }
+  main{
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: baseline;
+    height: 90vh;
+  }
+  h1{
+    font-size: 50px;
+  }
+  a{
+    text-decoration: none;
+  }

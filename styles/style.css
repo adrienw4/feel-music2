@@ -2,24 +2,11 @@
 
 *{
   font-family: 'Poppins', sans-serif;
+  color: white;
+  font-weight: 400;
 }
 body{
   background-color:#2F3038 ;
-  z-index: -2;
-  background-attachment: fixed;
+  overflow: hidden;
 }
-.img{
 
-}
-header{
-  display: flex;
-  justify-content: center;
-  font-size: 25px;
-
-}
-.title{
-  display: flex;
-}
-.main{
-  display: flex;
-}
