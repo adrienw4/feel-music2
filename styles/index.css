@@ -2,3 +2,15 @@ header{
     display: flex;
 
 }
+.img img{
+    display: flex ;
+    height: 700px;
+    align-self: flex-end;
+}
+body{
+     background-attachment: fixed;
+     overflow: hidden;
+}
+.main{
+    display: flex;
+}
