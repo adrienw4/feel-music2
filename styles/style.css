@@ -9,3 +9,26 @@ body{
   background-color:#2F3038 ;
   overflow: hidden;
 }
+header{
+  display: flex;
+  padding: 25px;
+  height: 10vh;
+  justify-content: space-between;
+  margin-left: 90px;
+  margin-right: 90px;
+  align-items: center;
+}
+a.Soundwave{
+  font-size: 25px;
+  align-self: center;
+}
+.menu{
+  font-size: 20px;
+}
+.title img{
+  height: 65px;
+
+}
+a{
+  text-decoration: none;
+}
