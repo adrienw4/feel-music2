@@ -1,4 +1,4 @@
-.img img{
+.img{
     justify-content: flex-end;
     margin-bottom: 0px;
     
@@ -15,8 +15,7 @@
     font-size: 50px;
   }
   .textAndA{
-    align-self: center;
-
+    
   }
  .textAndA a{
     background-color: blueviolet;

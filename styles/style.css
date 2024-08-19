@@ -20,14 +20,20 @@ header{
 }
 a.Soundwave{
   font-size: 25px;
-  align-self: center;
 }
 .menu{
   font-size: 20px;
+ padding: 25px;
 }
 .title img{
   height: 65px;
+  display: flex;
 
+}
+.title{
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 a{
   text-decoration: none;
